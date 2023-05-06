@@ -1,0 +1,12 @@
+{
+  "input_interfaces": [
+    "t1-brain-mri",
+    "t1gd-brain-mri",
+    "t2-brain-mri",
+    "flair-brain-mri"
+  ],
+  "output_interfaces": [
+    "probabilities-who-grade"
+  ],
+  "roi_segmentation_interface": null
+}
