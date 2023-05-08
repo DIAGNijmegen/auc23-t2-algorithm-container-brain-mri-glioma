@@ -6,7 +6,7 @@
     "flair-brain-mri"
   ],
   "output_interfaces": [
-    "probabilities-who-grade"
+    "who-grade-probabilities"
   ],
   "roi_segmentation_interface": null
 }
